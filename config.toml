@@ -50,7 +50,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Short info about me"
-		content = "I am a mainly Java developer. I am a follower of agile, especially scrum and Acceptance Test Driven Development. I prefer to make microservices in spring-boot. When I do not make a software, I'd like to take photos."
+		content = "I am a mainly Java developer. I am a follower of agile, especially scrum and Acceptance Test Driven Development. I prefer to make microservices in spring-boot. When I do not make a software, I'd like to take photos. "
 
 
 	[params.portfolio]
