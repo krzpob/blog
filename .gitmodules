@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:krzpob/krzpob.github.io.git
+[submodule "themes/hugo-strata-theme"]
+	path = themes/hugo-strata-theme
+	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
